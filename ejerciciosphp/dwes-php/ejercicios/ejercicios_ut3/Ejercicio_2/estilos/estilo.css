@@ -1,0 +1,148 @@
+.tablas table, .tablas td, .tablas th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p {
+    color: green;
+}
+
+h1 {
+  width: 600px;
+  color: blue;
+  border: 3px solid blue;
+  margin-bottom: 20px;
+}
+
+.alerta {
+  color: red;
+}
+
+.formulario form {
+  width: 750px;
+}
+
+.formulario fieldset {
+  background-color: lightblue;
+  border: 2px solid darkcyan;
+}
+
+.formulario legend {
+  font-size: 16px;
+  border: 2px solid darkcyan;
+  background-color: white;
+}
+
+.area-texto {
+   position: relative:
+}
+
+.bordetabla {
+  border: 2px solid darkcyan;
+}
+
+.tabla8-3 {
+  border: 2px solid darkcyan;
+  border-collapse: collapse;
+}
+
+.tabla8-3 td, th{
+  border: 1px solid black;
+}
+
+.tabla8-3 th {
+  background-color: blue;
+  color: white;
+}
+
+.izq {
+  float: left;
+  margin: 10px;
+}
+
+.der {
+  float: left;
+  margin: 10px;
+}
+
+.centro {
+  float: left;
+  margin: 10px;
+}
+
+.ej3_tabla {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.ej3_tabla th {
+  background-color: blue;
+  color: white;
+  border: 1px solid black;
+}
+
+.ej3_tabla td {
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.ej3_titulo {
+  color: blue;
+}
+
+.centrado {
+  margin: 0 auto;
+  width: 270px;
+  text-align: center;
+}
+
+/* Estilos ejercicio 8 */
+
+.cabezado {
+  width: 560px;
+  height: 25%;
+  background-color: #6c9c2c;
+  padding: 15px;
+}
+
+.titulo-ej8 {
+  font-size: 35px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: #2b2a2a;
+}
+
+.titulo_cuerpo-ej8 {
+  font-size: 25px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: #59ad44;
+  font-weight: bold;
+}
+
+.tabla-ej8 th, td{
+  border: none;
+  text-align: left;
+}
+
+.formulario-ej8 {
+  margin-top: 10px;
+}
+
+.cuerpo {
+  width: 560px;
+  height: fit-content;
+  min-height: 200px;
+  background-color: #57b74c9e;
+  padding: 15px;
+  line-height: 30px;
+}
+
+.pie {
+  width: 590px;
+  height: 30px;
+  background-color: #6c9c2c;
+}
+
+
+
